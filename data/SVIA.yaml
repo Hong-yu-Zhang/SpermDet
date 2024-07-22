@@ -1,0 +1,5 @@
+train: /hy-tmp/YOLOv5/Datasets/SVIA/images/train
+val: /hy-tmp/YOLOv5/Datasets/SVIA/images/val
+test: /hy-tmp/YOLOv5/Datasets/SVIA/images/test
+nc: 2
+names: ['S', 'Impurity']

@@ -1,0 +1,5 @@
+train: /hy-tmp/YOLOv5/Datasets/SDTB/images/train
+val: /hy-tmp/YOLOv5/Datasets/SDTB/images/test
+test: /hy-tmp/YOLOv5/Datasets/SDTB/images/test
+nc: 1
+names: ['S']

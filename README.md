@@ -1,5 +1,5 @@
 # SpermDet
-* Author list: Hongyu Zhang, Yunbo Rao, Jie Shao, Fanman Meng, Naveed Ahmad
+* Author list: Hongyu Zhang, Zhujun Hu, Huaying Huang, Shuang Liu, Yunbo Rao, Qifei Wang, Naveed Ahmad
 * This repository contains the implementation code and proposed SDTB dataset for paper: 
 "SpermDet: Structure-aware Network with Local Context Enhancement and Dual-path Fusion for Object Detection in Sperm Images" 
 * Under Review in IEEE

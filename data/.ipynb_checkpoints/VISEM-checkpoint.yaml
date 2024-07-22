@@ -1,0 +1,4 @@
+train: /hy-tmp/YOLOv5/Datasets/VISEM/images/train
+val: /hy-tmp/YOLOv5/Datasets/VISEM/images/val
+nc: 3
+names: ['normal sperm', 'sperm clusters', 'pinhead sperm']

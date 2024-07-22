@@ -1,0 +1,5 @@
+train: /hy-tmp/YOLOv5/Datasets/gwcc/images/train
+val: /hy-tmp/YOLOv5/Datasets/gwcc/images/test
+test: /hy-tmp/YOLOv5/Datasets/gwcc/images/test
+nc: 1
+names: ['S']

@@ -5,9 +5,9 @@
 * Under Review in IEEE
 
 ## Dataset
-The dataset will be made publicly accessible after the acceptance of the paper. If you need early access, please contact the following email: Hong-yu-Zhang@outlook.com
+The dataset has be made publicly accessible on IEEE DataPort. If you have any question, please contact the following email: Hong-yu-Zhang@outlook.com
 ```
-https://zenodo.org/records/12792022
+https://ieee-dataport.org/documents/sdtb-dataset
 ```
 
 ## Motivation

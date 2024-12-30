@@ -2,7 +2,7 @@
 * Author list: Hongyu Zhang, Zhujun Hu, Huaying Huang, Shuang Liu, Yunbo Rao, Qifei Wang, Naveed Ahmad
 * This repository contains the implementation code and proposed SDTB dataset for paper: 
 "SpermDet: Structure-aware Network with Local Context Enhancement and Dual-path Fusion for Object Detection in Sperm Images" 
-* Accepted by IEEE TIM
+* **Accepted by IEEE Transactions on Instrumentation and Measurement**
 
 ## Dataset
 The dataset has be made publicly accessible on IEEE DataPort. If you have any question, please contact the following email: Hong-yu-Zhang@outlook.com

@@ -68,7 +68,7 @@ python val.py --weights [your_path]/weights/best.pt --data data/[dataset_name].y
 <p align="center"> <img src="./img/Visual_compare.png" width="800"> </p>
 
 ## Citation
-If you find **SpermDet**, please cite our paper:
+If you find **SpermDet** useful, please cite our paper:
 ```
 @ARTICLE{10910089,
   author={Zhang, Hongyu and Hu, Zhujun and Huang, Huaying and Liu, Shuang and Rao, Yunbo and Wang, Qifei and Ahmad, Naveed},

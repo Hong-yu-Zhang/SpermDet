@@ -66,3 +66,19 @@ python val.py --weights [your_path]/weights/best.pt --data data/[dataset_name].y
 
 ## Visulization results
 <p align="center"> <img src="./img/Visual_compare.png" width="800"> </p>
+
+## Citation
+If you find **SpermDet**, please cite our paper:
+```
+@ARTICLE{10910089,
+  author={Zhang, Hongyu and Hu, Zhujun and Huang, Huaying and Liu, Shuang and Rao, Yunbo and Wang, Qifei and Ahmad, Naveed},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={SpermDet: Structure-Aware Network With Local Context Enhancement and Dual-Path Fusion for Object Detection in Sperm Images}, 
+  year={2025},
+  volume={74},
+  number={},
+  pages={1-14},
+  keywords={Feature extraction;Object detection;Noise;Context modeling;Background noise;Semantics;Visualization;Transformers;Neck;Electronic mail;Computer-aided semen analysis (CASA) system;feature fusion;local context extraction;multimodal image fusion;object detection},
+  doi={10.1109/TIM.2025.3544697}}
+
+```
